@@ -28,5 +28,7 @@ public class Main {
 
         biblioteca.exibirInfo();
         usuario.exibirInfo();
+        livro1.exibirInfo();
+        livro2.exibirInfo();
     }
 }
